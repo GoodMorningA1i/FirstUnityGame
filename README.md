@@ -50,6 +50,10 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
+Email: alisyed0206@gmail.com
+
+Github Repo: https://github.com/GoodMorningA1i/
+
 ## Acknowledgements
 
 This game's complete contribution goes to the Brackeys' Youtube Channel.
